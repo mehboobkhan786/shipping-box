@@ -1,0 +1,45 @@
+App {
+    text-allign: centre;
+    background-color: pink;
+}
+
+form {
+    width: 400px;
+    margin: 0 auto;
+}
+
+input {
+    display: block;
+    width: 200px;
+    margin-bottom: 1rem;
+    margin: 0 auto 1rem auto;
+    block-size: 1rem auto;
+    background-origin: padding-box;
+    background-color: white;
+}
+
+body {
+    background-color: pink;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 4rem;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
